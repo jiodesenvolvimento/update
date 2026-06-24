@@ -1,5 +1,5 @@
 {
-    "versao": "1.0.7",
-    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.0.7/update.zip",
-    "changelog": "Correção bug: Não alterava o número da próxima nota fiscal e ser emitida  na aba fiscal das configurações."
+    "versao": "1.0.8",
+    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.0.8/update.zip",
+    "changelog": "Correção na ajuda do sistema."
 }
