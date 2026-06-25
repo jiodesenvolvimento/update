@@ -1,5 +1,5 @@
 {
-    "versao": "1.1.7",
-    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.1.7/update.zip",
-    "changelog": "Correção no envio de emails das NFs."
+    "versao": "1.1.8",
+    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.1.8/update.zip",
+    "changelog": "Criado sistema que define se terminal vai operar como servidor ou terminal"
 }
