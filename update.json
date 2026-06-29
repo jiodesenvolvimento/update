@@ -1,5 +1,5 @@
 {
-    "versao": "1.1.8",
-    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.1.8/update.zip",
-    "changelog": "Criado sistema que define se terminal vai operar como servidor ou terminal"
+    "versao": "1.1.9",
+    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.1.9/update.zip",
+    "changelog": "Melhorias no sistema de rede e terminais, melhoria na segurança da criação do BD inicial"
 }
