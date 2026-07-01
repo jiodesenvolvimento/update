@@ -1,5 +1,5 @@
 {
-    "versao": "1.1.9",
-    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.1.9/update.zip",
-    "changelog": "Melhorias no sistema de rede e terminais, melhoria na segurança da criação do BD inicial"
+    "versao": "1.2.0",
+    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.2.0/update.zip",
+    "changelog": "Melhorias na segurança de uploads do sistema, correção de bugs"
 }
