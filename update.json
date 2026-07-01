@@ -1,5 +1,5 @@
 {
-    "versao": "1.2.1",
-    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.2.1/update.zip",
-    "changelog": "Atualizada a segurança do backup, Melhoria do sistema de registro de LOGS, correção no acesso de usuário não adm, Aprimoramento da segurança da emissão de NFs"
+    "versao": "1.2.2",
+    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.2.2/update.zip",
+    "changelog": "Aprimoramento no sistema de geração de licenças."
 }
