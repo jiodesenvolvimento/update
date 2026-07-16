@@ -1,5 +1,5 @@
 {
-    "versao": "1.2.13",
-    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.2.13/update.zip",
-    "changelog": "Correções na aba notas fiscais, cadastro de produtos e melhorias gerais."
+    "versao": "1.2.14",
+    "url": "https://github.com/jiodesenvolvimento/update/releases/download/v1.2.14/update.zip",
+    "changelog": "Adição de importação de xml de NF, criação de entartes promocionais."
 }
